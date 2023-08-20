@@ -97,5 +97,9 @@ Finally, I was a bit limited in my compute resources. It could be helpful to try
 
 Comparing and contrasting these potential improvements with the current solution would help us assess their effectiveness and further enhance the understanding of the customer base and segmentation process.
 
+## Licensing, Authors, Acknowledgements
+
+Credits must be given to the [Arvato Bertelsmann](https://www.bertelsmann.com/#st-1) company for providing the data and the project, and to [Udacity](https://www.udacity.com/) for all of the course material and the Capstone Project.
+
 
 
