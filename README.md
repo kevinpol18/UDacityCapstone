@@ -15,6 +15,34 @@ To solve this problem, I will first preprocess and clean the provided datasets t
 
 The expected solution is a clear and actionable segmentation of the general population, highlighting the most promising segments for customer acquisition. This will enable the company to focus its marketing efforts on the identified target groups, leading to more efficient use of resources and improved customer acquisition and retention rates.
 
+## Requirements
+
+To run the code in this repository, you will need to have the following libraries installed:
+1. numpy: A library for the Python programming language, adding support for large, multi-dimensional arrays and matrices, along with a large collection of high-level mathematical functions to operate on these arrays.
+`pip install numpy`
+
+1. pandas: A fast, powerful, flexible, and easy-to-use open-source data analysis and data manipulation library built on top of the Python programming language.
+`pip install pandas`
+
+1. ast: The abstract syntax tree module is part of the Python standard library and does not require installation.
+
+1. matplotlib: A plotting library for the Python programming language and its numerical mathematics extension NumPy.
+`pip install matplotlib`
+
+1. seaborn: A Python data visualization library based on matplotlib that provides a high-level interface for drawing attractive and informative statistical graphics.
+`pip install seaborn`
+
+1. scikit-learn: A machine learning library for Python, featuring various classification, regression, and clustering algorithms, including support vector machines, random forests, gradient boosting, k-means, etc.
+`pip install scikit-learn`
+
+1. imbalanced-learn: A Python package that offers a number of re-sampling techniques commonly used in datasets showing strong between-class imbalance.
+`pip install imbalanced-learn`
+
+1. joblib: A set of tools to provide lightweight pipelining in Python, particularly useful for caching of large computation results.
+`pip install joblib`
+
+After installing the required libraries, you can use the provided Jupyter Notebook with %matplotlib inline magic word to produce visualizations directly in the notebook.
+
 ## Metrics
 In order to evaluate the performance of the segmentation model and the effectiveness of this approach, it is essential to define appropriate metrics. These metrics should capture the quality of the segmentation and provide a quantitative measure to compare different models or strategies.
 
