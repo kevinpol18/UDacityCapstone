@@ -70,7 +70,7 @@ By comparing the results using different models, parameters, and techniques in t
 #### Justification
 The final results are discussed in detail, and the exploration as to why some techniques worked better than others and how improvements were made has been documented. I found that the combination of PCA and K-means clustering provided a good balance between computational efficiency and quality of the segmentation. The use of PCA allowed us to reduce the dimensionality of the data while preserving its structure, and K-means clustering helped identify distinct segments of the population based on their demographic characteristics.
 
-On the other hand, I observed that certain supervised learning models performed better than others in predicting the cluster labels. For example, the XGBoost model provided higher accuracy and F1 scores compared to Logistic Regression and Random Forest. This can be attributed to the ability of gradient boosting algorithms like XGBoost to capture complex patterns and relationships in the data, which might not be captured by linear models like Logistic Regression.
+On the other hand, I observed that certain supervised learning models performed better than others in predicting the cluster labels. For example, Logistic Regression outperformed the Random Forest model.
 
 Furthermore, I found that using SMOTE for rebalancing the dataset was effective in addressing the class imbalance issue, leading to more accurate and robust predictions.
 
