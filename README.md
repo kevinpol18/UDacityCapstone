@@ -1,6 +1,8 @@
 # UDacityCapstone
 Repo for UDacity Data Scientist Capstone
 
+Please see link for the blog post [here](https://medium.com/@kevinpolitz/customer-segmentation-report-d51221710536). 
+
 ## Project Overview
 
 In the highly competitive market of customer acquisition and retention, companies are constantly seeking to better understand their customer base. Analyzing existing customers' demographics and behavior patterns can provide valuable insights into potential target groups and help tailor marketing strategies to maximize customer acquisition and retention. This project aims to analyze demographics data for a mail-order sales company in order to identify potential new customers within the general population.
