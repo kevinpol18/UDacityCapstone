@@ -91,6 +91,8 @@ While the current solution provides valuable insights into customer segmentation
 
 Another area for improvement is the feature selection process. In the current approach, I used PCA to reduce the dimensionality of the data. However, PCA is a linear technique and might not capture complex non-linear relationships between features. Alternative dimensionality reduction techniques, such as t-SNE or UMAP, could be explored to better preserve the structure of the data in the reduced-dimensional space.
 
+Finally, I was a bit limited in my compute resources. It could be helpful to try a broader parameter search or use a library like Optuna for hyperparameter optimization. I could also try other machine learning models like XGBoost.
+
 Comparing and contrasting these potential improvements with the current solution would help us assess their effectiveness and further enhance the understanding of the customer base and segmentation process.
 
 
