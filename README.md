@@ -1,13 +1,13 @@
 # UDacityCapstone
 Repo for UDacity Data Scientist Capstone
 
-# Project Overview
+## Project Overview
 
 In the highly competitive market of customer acquisition and retention, companies are constantly seeking to better understand their customer base. Analyzing existing customers' demographics and behavior patterns can provide valuable insights into potential target groups and help tailor marketing strategies to maximize customer acquisition and retention. This project aims to analyze demographics data for a mail-order sales company in order to identify potential new customers within the general population.
 
 The project's origin lies in the need for an efficient and data-driven approach to customer segmentation, which can help the company focus its marketing efforts on the most promising segments of the population. The project will leverage two datasets: one containing demographic information about the company's existing customers, and another containing demographic information about the general population. By comparing the characteristics of the company's customers with those of the general population, we aim to identify key differences and similarities that can be used to target new customers more effectively.
 
-# Problem Statement
+## Problem Statement
 
 The problem to be solved is to identify potential new customers for the mail-order sales company by analyzing and comparing the demographic characteristics of the company's existing customers with those of the general population. This will help the company better understand its customer base, focus its marketing efforts on the most promising segments of the population, and ultimately increase customer acquisition and retention.
 
